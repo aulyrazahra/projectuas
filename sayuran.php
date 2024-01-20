@@ -1,0 +1,86 @@
+<?php include "header.php"; ?>
+
+    <div class="container">
+        <div class="col-md-12">
+            <center>
+            <h1><strong> Aneka Resep Sayur ala Rumahan yang Enak, Sehat dan Sederhana  </h1>
+            </center>
+         </br>
+        </br>
+    <blockquote class="blockquote">
+
+        <p> <h3>Setiap orang menginnginkan hidup yang sehat, salah satunya dengan menerapkan pola makan yang sehat dengan mengonsumsi sayur-sayuran. Ada juga orang yang tidak terlalu suka makan sayur. Apalagi bagi usia anak-anak, mereka sangat susah untuk makan sayur.</p>
+        <p>Padahal sayur memiliki banyak gizi, vitamin, dan serat tinggi yang baik untuk kesehatan tubuh. Mungkin karena menu sayur bisa dibilang kurang lezat dibanding menu lainnya. Untuk menyiasati hal itu, kamu bisa membuat olahan beragam sayur jadi masakan yang lezat dan mengunggah selera. Untuk pilihan praktis, ada resep sayur ala rumahan yang selalu jadi favorit.</p>
+        <p>Kamu juga bisa berkreasi sendiri, mengolah dan menambahkan isian atau toping ke dalam sayur. Beragam penunjang seperti ayam, jamur, tempe, tahu, mie instan, sosis, dan lain-lain. Memasak sendiri dengan sayuran ala rumahan jadi langkah awal memulai pola makan sehat.</p>
+        <p>Sehat dapat diraih, hemat pun tak terelakkan. Bisa hemat pengeluaran bulanan nih! Beragam resep ini sangat cocok bagi kamu ibu muda yang ingin merayu buah hatinya.</p>
+        <p>Berikut rangkuman Temonggo.com tentang aneka resep sayur ala rumahan dari berbagai sumber, silahkan disimak.</p>
+       
+				<h3 class="wp-block-heading"> <strong> 1. Tumis Kangkung Terasi </strong> </h3> 
+					<br><img src="images/kangkung.jpg" width="1000px" height="500px"> 
+						<p>Bahan</p>
+						<ul><li>1 ikat kangkung siangi</li><li>Saus tiram</li><li>Garam</li></ul>
+						<p>Bumbu uleg</p>
+						<ul><li>10 cabe merah</li><li>5 rawit</li><li>5 bawput</li><li>2 blok terasi</li></ul>
+						<p>Cara membuat:</p>
+						<ul><li>Tumis bumbu ulek sampai harum</li><li>Masukan terasi dan bumbu.</li><li>Masak sayur sebentar saja, sajikan.</li></ul>
+
+				<h3 class="wp-block-heading"> <strong> 2. Brokoli Cah Sosis </strong> </h3> 
+					<br><img src="images/brokoli.jpg" width="1000px" height="500px"> 
+						<p>Bahan :</p>
+						<ul><li>1 bonggol brokoli (siangi, cuci air garam)</li><li>4 buah sosis sapi (iris serong)</li><li>3 siung bawang putih, cincang</li><li>1/2 buah bawang bombay, iris memanjang</li><li>2 sdm saus tiram</li><li>1 sdt kecap asin</li><li>Garam merica secukupnya</li><li>Secukupnya air matang</li><li>Larutan maizena</li></ul>
+						<p>Cara membuat :</p>
+						<ol><li>Tumis bawang putih dan bawang bombay hingga harum. Masukan sosis tumis sebentar tambahkan air matang tunggu hingga mendidih.</li><li>Masukan brokoli dan bumbu lain nya. Koreksi rasa. Masak sekitar 2 menit saja.</li><li>Kentalkan dengan larutan maizena. Angkat dan sajikan.</li></ol>
+
+				<h3 class="wp-block-heading"> <strong> 3. Tumis Kacang Panjang Telur Puyuh </strong> </h3>
+					<br><img src="images/tumiskacangpanjang.jpg" width="1000px" height="500px">
+						<p>Bahan :</p>
+						<ul><li>1 ikat kacang panjang</li><li>30 butir telur puyuh</li><li>2 sdm saus tiram</li><li>1 sdm kecap</li><li>1 sdt merica</li><li>5 buah cabai keriting (potong)</li><li>Gula secukupnya</li><li>Air</li></ul>
+						<p>Bumbu halus :</p>
+						<ul><li>5 butir kemiri</li><li>5 butir bawang putih</li></ul>
+						<p>Cara memasak :</p>
+						<ol><li>Tumis bumbu halus dan cabai</li><li>Masukkan kacang panjang, setelah layu tambahkan sedikit air</li><li>Tambahkan saus tiram, kecap, gula dan merica. Aduk rata.</li><li>Masukkan telur puyuh, aduk</li><li>Tunggu hingga matang</li></ol>
+
+				<h3 class="wp-block-heading"> <strong> 4. Sayur Bening Bayam </strong> </h3>
+					<br><img src="images/sayurbayam.jpg" width="1000px" height="500px">
+						<p>Bahan :</p>
+						<ul><li>1 ikat bayam</li><li>Setengah bonggol jagung, pipil</li><li>3 siung bawmer iris</li><li>3 sdm minyak goreng</li><li>600 ml air</li><li>1 sdt kaldu ayam bubuk non msg, yg ada msg ckup setengah sdt aja</li><li>2 sdt kaldu jamur bubuk</li><li>Seujung sdt garam</li></ul>
+						<p>Cara memasak :</p>
+						<ol><li>Tuang minyak ke dlm wajan, tumis bawmer hingga harum, masukkan bayam, tumis hingga agak layu. Tuang air. Biarkan mendidih dl. Masukkan jagung.</li><li>Tambahkan kaldu jamur bubuk, kaldu ayam bubuk, dan garam. Aduk rata. Lakukan tes cicip.</li><li>Masak sampai tingkat kematangan bayam yg disukai, selera masing2 ya.</li><li>Angkat dan sajikan hangat</li></ol>
+				
+				<h3 class="wp-block-heading"> <strong>5. Gulai Nangka </strong> </h3>
+					<br><img src="images/gulai-nangka.jpg" width="1000px" height="500px">
+						<p>Bahan:</p>
+						<ul><li>700 gram nangka muda, potong2</li><li>200 gram tetelan sapi</li><li>4 lonjor kacang panjang, potong2</li><li>1,2 liter santan (dari 1/2 butir kelapa)</li><li>15 buah cabe rawit utuh</li><li>1 ruas jari lengkuas,memarkan</li><li>3 lembar daun salam</li><li>Garam &amp; gula secukupnya</li></ul>
+						<p>Bumbu halus:</p>
+						<ul><li>10 butir bawang merah</li><li>6 siung bawang putih</li><li>2 buah cabe merah besar</li><li>5 cabe merah keriting</li><li>4 cm kunyit, bakar</li><li>4 butir kemiri, sangrai</li><li>1 sdm ketumbar, sangrai</li><li>1 sdt merica butiran</li><li>1/4 sdt jinten, sangrai</li></ul>
+						<p>Cara membuat:</p>
+						<ol><li>Didihkan air, rebus nangka muda sampai empuk, matikan api, buang airnya, sisihkan.</li><li>Didihkan air, rebus tetelan sampai agak lunak, matikan api, buang airnya, sisihkan.</li><li>Campur rebusan nangka &amp; tetelan didalam panci, tuangi santan.</li><li>Tumis bumbu halus sampai wangi, masukkan, cabe rawit utuh, daun salam &amp; lengkuas, aduk sampai layu, masukkan kacang panjang, bumbui garam &amp; gula, aduk rata, masak sampai kacang panjang agak layu, matikan api.</li><li>Tuang bumbu tumisan kedalam panci berisi nangka &amp; tetelan, hidupkan kembali kompor, masak sambil terus diaduk supaya santan tidak pecah, tes rasa, bila sudah pas matikan api, sajikan.</li></ol>
+						
+				<h3 class="wp-block-heading"><strong> 6.  Kembang Kol Cah Ayam </strong></h3>
+					<br><img src="images/sayurkembangkol.jpg " width="1000px" height="500px">
+						<p>Bahan:</p>
+						<ul><li>1 bongkol kembang kol petik kuntum</li><li>100gr paha ayam fillet potong2</li><li>2 siung bawang putih iris tipis</li><li>2 siung bawang merah iris tipis</li><li>1 batang daun bawang iris tipis</li><li>1 sdm saus tomat</li><li>1 sdm saus tiram</li><li>1/2 sdt gula</li><li>1 sdt kecap ikan</li><li>Garam dan merica</li><li>Air maizena</li><li>100ml air</li></ul>
+						<p>Cara membuat:</p>
+						<ol><li>Lumuri ayam dgn garam dan merica. Sisihkan.</li><li>Tumis duo bawang sampai harum. Masukan ayam. Masak sampai berubah warna.</li><li>Tuang air sampai mendidih.Masukan kembang kol. Beri saus tomat, saus tiram, gula, kecap ikan, garam dan merica. Aduk rata. Koreksi rasa. Masak sampai matang.</li><li>Beri air maizena. Masak sampai meletup.</li><li>Menjelang diangkat beri daun bawang.</li></ol>
+
+    </blockquote>
+        </div>
+    </div>
+
+<div class="row">
+	<div class="col-md-12">
+		<br><style> .jumbotron{color: rgb(239, 229, 229); } </style>
+		<div class="jumbotron" style="background-color: rgb(31, 36, 38);"></style>
+			<div class="container">
+			<center>Copyright @COOKINGRARA, design with <span class="glyphicon glyphicon-heart"></span> by AULIA AZAHRA<br/>
+			<a href="index.html"> Beranda </a> | <a href="aboutcooking.html"> Tentang Kami </a> | <a href="contactcooking.html"> Hubungi Kami </a> | <a href="resepfavorit.html">Aneka Resep Favorit </a><br/><br/>	
+			</center>
+			</div>
+		</div>
+	</div>
+</div>
+s
+    <script src="bootstrap/js/jQuery.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    </body>
+    </html>
