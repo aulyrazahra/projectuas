@@ -34,13 +34,13 @@
 							<a href="index.php"><span class="glyphicon glyphicon-home"></span> Dashboard <span class="sr-only">(current)</span></a>
 						</li>
             <li>
-							<a href="resepfavorit.php"><span class="glyphicon glyphicon-user"></span> Daftar Resep </a>
+							<a href="tampil-menu.php"><span class="glyphicon glyphicon-user"></span> Daftar Resep </a>
 						</li>
             <li>
 							<a href="contact.php"><span class="glyphicon glyphicon-user"></span> Kritik dan Saran</a>
 						</li>
             <li>
-							<a href="tampil-berita.php"><span class="glyphicon glyphicon-user"></span> Resep Favorit Sahabat </a>
+							<a href="detail.php"><span class="glyphicon glyphicon-user"></span> Resep Favorit Sahabat </a>
 						</li>
             <li>
 							<a href="tampil-user.php"><span class="glyphicon glyphicon-registration-mark"></span> User</a>
@@ -56,3 +56,5 @@
         </div>
       </div>
     </nav><!-- Akhir script Navbar -->
+
+    

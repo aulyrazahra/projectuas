@@ -5,6 +5,8 @@
   }
 ?>
 <?php include "header.php"; ?>
+<br><style> .jumbotron{color: hsl(0, 11%, 4%); } </style> 
+			<div class="jumbotron" style="background-color: rgb(184, 178, 152);"></style> <!-- Awal Jumbotron-->
 <div class="container">
     <div class="row">
         <div class="col-md-12">
@@ -97,6 +99,7 @@
         </div>
     </div>
 </div>
+
 
 
 <?php include "footer.php";?>

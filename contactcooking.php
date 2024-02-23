@@ -1,7 +1,8 @@
 <?php include "header.php"; ?>
 
-	<br><style> .jumbotron{color: hsl(0, 11%, 4%); } </style>
-	<div class="jumbotron" style="background-color: rgb(8, 15, 18);"></style>
+<br><style> .jumbotron{color: rgb(239, 229, 229); } </style>
+<div class="jumbotron" style="background-color: rgb(167, 150, 108);"></style>
+
     <div class="container mtb">
 		<div class="row">
 			<div class="col-lg-8">
@@ -77,20 +78,7 @@
 
 		</div><!-- Akhir Baris -->
 		</div><!--  Akhir Page -->
-
-		<div class="row">
-			<div class="col-md-12">
-				<br><style> .jumbotron{color: rgb(239, 229, 229); } </style>
-			<div class="jumbotron" style="background-color: rgb(31, 36, 38);"></style>
-				<div class="container">
-				<center>Copyright @COOKINGRARA, design with <span class="glyphicon glyphicon-heart"></span> by AULIA AZAHRA<br/>
-				<a href="index.php"> Beranda </a> | <a href="aboutcooking.php"> Tentang Kami </a> | <a href="contactcooking.php"> Hubungi Kami </a> | <a href="resepfavorit.php">Aneka Resep Favorit </a><br/><br/>	
-				</center>
-			</div>
-			</div>
-		</div>
-	</div>
-
+<?php include "footer.php"; ?>
 
 <script src="bootstrap/js/jQuery.js"></script>
 <script src="bootstrap/js/bootstrap.min.js"></script>

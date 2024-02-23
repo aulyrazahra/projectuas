@@ -10,7 +10,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-        <h4 class="display-4"><span class="font-weight-bold">Pesan Kritik dan Saran</span></h4>
+        <h3 class="display-4"><span class="font-weight-bold">Pesan Kritik dan Saran</span></h3>
         </div>
     </div>
   <!-- Akhir Jumbotron -->

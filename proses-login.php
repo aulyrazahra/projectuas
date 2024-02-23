@@ -1,42 +1,29 @@
 <?php
-include 'koneksi.php';
+session_start();
+include "koneksi.php";
+$username = $koneksi->real_escape_string($_POST['username']); 
+$password = $koneksi->real_escape_string(md5($_POST['password']));
 
-if (isset($_POST['submit'])) {
-    $user = $_POST['username'];
-    $password = $_POST['password'];
+$sql=$koneksi->query("SELECT * FROM user WHERE username= '$username' and password='$password'");
+$row= $sql->fetch_assoc();
+$result= $sql->num_rows;
 
-    try {
-        // Buat koneksi menggunakan PDO
-        $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
-        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+if ($result==TRUE)
+{
+    $user_id=$row['user_id'];
+    $token=md5($username.$password);
+    date_default_timezone_set('Asia/Jakarta');
+    //$last_login=date('Y-m-d H:i:s');
+    $koneksi->query("UPDATE user set last_login=now(), token='$token' where user_id='$user_id' ");
 
-        // Query menggunakan prepared statement
-        $stmt = $pdo->prepare("SELECT * FROM user WHERE username = :username AND password = :password");
-        $stmt->bindParam(':username', $user);
-        $stmt->bindParam(':password', $password);
-        $stmt->execute();
+    $_SESSION['user_id']=$row['user_id'];
+    $_SESSION['username']=$row['username'];
 
-        $result = $stmt->fetch(PDO::FETCH_ASSOC);
+    header("location:admin/index.php");  
+    
+} else {
 
-        if ($result) {
-            session_start();
-            $_SESSION['login_user'] = $user;
+	 echo"<script>alert('Username atau password salah !');document.location.href='login.php';</script>";
 
-            if ($result['status'] == 'admin') {
-                header('location: admin.php');
-            } elseif ($result['status'] == 'user') {
-                header('location: user.php');
-            }
-        } else {
-            header("location: login.php");
-        }
-    } catch (PDOException $e) {
-        echo "Error: " . $e->getMessage();
-    }
-
-    $pdo = null; // Tutup koneksi PDO
 }
 ?>
-
-<!-- Akhir Eksekusi Form Login -->
-</div>

@@ -6,6 +6,8 @@
 ?>
 <?php include "header.php"; ?>
     <div class="container">
+    <br><style> .jumbotron{color: hsl(0, 11%, 4%); } </style> 
+			<div class="jumbotron" style="background-color: rgb(184, 178, 152);"></style> <!-- Awal Jumbotron-->
         <div class="row">
             <div class="col-md-12">
                 <form action="proses-input-user.php" method="POST">
@@ -30,5 +32,6 @@
             </div>
         </div>
     </div>
+</div>
 
     <?php include "footer.php";?>

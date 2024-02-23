@@ -45,7 +45,7 @@
 							<a href="resepfavorit.php"><span class="glyphicon glyphicon-hand-down"></span>  ANEKA RESEP FAVORIT </a>
 						</li>
             <li>
-							<a href="favoritsaya.php"><span class="glyphicon glyphicon-heart"></span> Favorit Saya </a>
+							<a href="resep.php"><span class="glyphicon glyphicon-heart"></span> Favorit Saya </a>
 						</li>
             <li>
 							<a href="login.php"><span class="glyphicon glyphicon-lock"></span> Login</a>

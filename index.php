@@ -1,5 +1,4 @@
 <?php include "header.php"; ?>
-
 <!-- Awal script Slider/ Carousel -->
 		<div class="row">
 			<div class="col-md-12">	
@@ -15,13 +14,10 @@
 								<img height="100px" bordir="1" >
 								<img src="images/gambar4.jpg" alt="" width="100%" height="100px" >
 								<div class="carousel-caption" style="color: black;">
-									<form class="form-inline">
-										<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-										<button type="submit" class="btn btn-default">Cari</button>				
-									  </form>
+							
 									<h1> <b> Cookingrara </h1>
 									<h2> MAU MASAK APA HARI INI BESTIE ?  </b> </h2>
-									<p><a class="btn btn-primary btn-lg" href="#" role="button"> Cari Resep </a> 
+									<p><a class="btn btn-primary btn-lg" href="resep.php" role="button"> Cari Resep </a> 
 								</div>
 							</div> <!-- Akhir script Slider pertama -->
 							<!-- Awal script Slider kedua -->
@@ -30,7 +26,7 @@
 								<div class="carousel-caption" style="color: black;" >
 									<h1> <b> Lezat dan Menyehatkan </h1>
 									<h2> Kamu, Harus Coba Menu Masakan Baru Nih hari ini  </b> </h2>
-									<p><a class="btn btn-primary btn-lg" href="resepfavorit.html" role="button"> Selengkapnya </a> 
+									<p><a class="btn btn-primary btn-lg" href="resepfavorit.php" role="button"> Selengkapnya </a> 
 								</div>
 							</div><!-- Akhir script Slider kedua -->
 							<!-- Awal script Slider ketiga -->
@@ -40,8 +36,8 @@
 									 <h1> <b> DELECIOUSS </h1> 
 									<h2> MANA NIH,MENU MASAKAN FAVORIT BESTIE  </b> </h2> 
 									
-									<p><a class="btn btn-info btn-lg" href="#" role="button"> ResepFavorit </a> 
-									<a class="btn btn-danger btn-lg" href="#" role="button"> Tentang Kami </a></p>
+									<p><a class="btn btn-info btn-lg" href="resepfavorit.php" role="button"> ResepFavorit </a> 
+									<a class="btn btn-danger btn-lg" href="aboutcooking.php" role="button"> Tentang Kami </a></p>
 								</div>
 							</div> <!-- Akhir script Slider ketiga -->
 						</div>

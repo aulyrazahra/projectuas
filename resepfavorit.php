@@ -89,8 +89,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmiendeso">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
-  <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalmiendeso" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -136,8 +136,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmielaksa">
 							Detail Resep
 						</button>
-							<button type="submit" name="kirim" class="btn btn-danger">
-  							<span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 						<div class="modal fade" id="myModalmielaksa" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -180,8 +181,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmiegomak">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 						<div class="modal fade" id="myModalmiegomak" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -221,8 +223,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmiekuahsantan">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 						<div class="modal fade" id="myModalmiekuahsantan" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -263,8 +266,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmieramen">
 							Detail Resep
 							</button>
-							<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+							<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 					
 						<div class="modal fade" id="myModalmieramen" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -305,8 +309,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmiekari">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 
 						<div class="modal fade" id="myModalmiekari" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -347,8 +352,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmierebus">
 							Detail Resep
 							</button>
-							<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+							<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 					
 						<div class="modal fade" id="myModalmierebus" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -391,8 +397,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalmietektek">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+  <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 
 						<div class="modal fade" id="myModalmietektek" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -460,8 +467,9 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalkangkung">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+
 						<div class="modal fade" id="myModalkangkung" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -498,8 +506,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalbrokoli">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 						<div class="modal fade" id="myModalbrokoli" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -534,9 +542,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModaltumis">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
-
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 						<div class="modal fade" id="myModaltumis" tabindex="-1" role="dialog" aria-labelledby="myModalModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -573,8 +580,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalbayam">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalbayam" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -610,8 +617,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalnangka">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalnangka" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -649,8 +656,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalkol">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 						<div class="modal fade" id="myModalkol" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">
@@ -709,8 +716,8 @@
 					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalsate">
 						Detail Resep
 					</button>
-					<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+					<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 					<div class="modal fade" id="myModalsate" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 						<div class="modal-dialog" role="document">
 							<div class="modal-content">
@@ -777,8 +784,8 @@
 					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalempal">
 						Detail Resep
 					</button>
-					<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+					<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 					<div class="modal fade" id="myModalempal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 						<div class="modal-dialog" role="document">
@@ -860,8 +867,8 @@
 					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalkalio">
 						Detail Resep
 					</button>
-					<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+					<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 					<div class="modal fade" id="myModalkalio" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 						<div class="modal-dialog" role="document">
@@ -933,8 +940,8 @@
 					<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalrendang">
 						Detail Resep
 					</button>
-					<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+					<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 					<div class="modal fade" id="myModalrendang" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 						<div class="modal-dialog" role="document">
@@ -1031,8 +1038,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalbawal">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalbawal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -1085,8 +1092,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalbalado">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalbalado" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -1140,8 +1147,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModaltenggiri">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModaltenggiri" tabindex="-1" role="dialog" aria-labelledby="myModalModalLabel">
 							<div class="modal-dialog" role="document">
@@ -1204,8 +1211,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalpete">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalpete" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -1288,8 +1295,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalpie">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalpie" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -1331,8 +1338,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModaloreo">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModaloreo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
@@ -1372,8 +1379,8 @@
 						<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModalpandan">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
 
 						<div class="modal fade" id="myModalpandan" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"> 
 							<div class="modal-dialog" role="document">
@@ -1420,9 +1427,9 @@
 						<button type="button" class="btn btn-primary " data-toggle="modal" data-target="#myModalpencake">
 							Detail Resep
 						</button>
-						<button type="submit" name="kirim" class="btn btn-danger">
- 						 <span class="glyphicon glyphicon-heart"></span> Tambah Favorit </button>
-
+						<a class="btn btn-danger" href="resep.php"role="button">
+                    <span class="glyphicon glyphicon-book"></span> Selengkapnya </a>
+					
 						<div class="modal fade" id="myModalpencake" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 							<div class="modal-dialog" role="document">
 								<div class="modal-content">

@@ -1,64 +1,52 @@
-<?php 
-include 'koneksi.php';
-?>
+<!doctype HTML>
+<html>
+<head>
+    <title>Login admin</title>
 
-<!doctype html>
-<html lang="en">
-  <head>
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<style>
+      body {
+        padding-top: 100px;
+      }
+		</style>
+</head>
+<body>
+<br><style> .jumbotron{color: hsl(0, 11%, 4%); } </style> 
+			<div class="jumbotron" style="background-color: rgb(184, 178, 152);"></style> <!-- Awal Jumbotron-->
 
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<div class="container">
+<br><style> .jumbotron{color:black; } </style>
+<div class="jumbotron" style="background-color: rgb(167, 150, 108);"></style>
+    <div class="row">
+		<div class="col-md-6 col-md-offset-3">
+			<div class="panel panel-default">
+				<div class="panel-body"> 
+				<h2 style="text-muted"><span class="glyphicon glyphicon-certificate"></span> 
+				LOGIN PENGGUNA</h2>
+				
+					<form action="proses-login.php" method="POST">
+                    <div class="form-group">
+                        <label for="username">Username</label>
+                        <input type="text" name="username" class="form-control" required>
+                    </div>
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
-    <link rel="stylesheet" type="text/css" href="css/login.css">
-    <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"> -->
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" name="password" class="form-control" required>
+                    </div>
 
+                    <input type="submit" name="kirim" value="Login" class="btn btn-info">
+                    <input type="reset" name="kosongkan" value="Reset" class="btn btn-danger">
+                    <a href="index.php"><span class="glyphicon glyphicon-home pull-right"> Home</span> </a>
+                </form>
+			</div>		
+			</div>
+		</div>
+    </div>
+</div>
 
-    <title>Halaman Login</title>
-  </head>
-  <body>
-  <!-- Form Login -->
-    <div class="container">
-      <h4 class="text-center">FORM LOGIN</h4>
-      <hr>
-      <form action="proses-login.php" method="POST">
-        <div class="form-group">
-          <label for="exampleInputEmail1">Username</label>
-            <div class="input-group">
-              <div class="input-group-prepend">
-                <div class="input-group-text"><i class="fas fa-user"></i></div>
-              </div>
-              <input type="text" class="form-control" placeholder="Masukkan Username" name="username">
-            </div>
-        </div>
-        <div class="form-group">
-          <label for="exampleInputPassword1">Password</label>
-            <div class="input-group">
-              <div class="input-group-prepend">
-                <div class="input-group-text"><i class="fas fa-unlock-alt"></i></div>
-              </div>
-              <input type="password" class="form-control" placeholder="Masukkan Password" name="password">
-          </div>
-        </div>
-        <div class="mb-3" >
-          <small><a href="register.php" class="text-dark">Belum Punya Akun ? Buat Akun Anda !</a></small>
-        </div>
-        <button type="submit" name="submit" class="btn btn-primary">LOGIN</button>
-        <button type="reset" name="reset" class="btn btn-danger">RESET</button>
-      </form>
-  <!-- Akhir Form Login -->
+<script src="bootstrap/js/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
 
-
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/jquery.js"></script>
-  </body>
+</body>
 </html>

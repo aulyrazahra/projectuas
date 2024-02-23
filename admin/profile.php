@@ -6,6 +6,8 @@
 ?>
 <?php include "header.php"; ?>
     <div class="container">
+    <br><style> .jumbotron{color: hsl(0, 11%, 4%); } </style> 
+			<div class="jumbotron" style="background-color: rgb(184, 178, 152);"></style> <!-- Awal Jumbotron-->
         <div class="row">
             <div class="col-md-12">
                 <form action="proses-edit-profile.php" method="POST">
@@ -35,31 +37,6 @@
                 </form>
             </div>
         </div>
-                <br>
-                <div class="row">
-                <div class="col-md-6">
-                    <form action="upload-foto.php" method="POST" enctype="multipart/form-data">
-                        <div class="form-group">
-                            <label for="foto">Foto</label>
-                            <input type="hidden" name="user_id" value="<?php echo $row['user_id']?>" class="form-control">
-                            <input type="file" name="foto" accept=".png, .jpg, .jpeg" value="<?php echo $row['foto']?>" class="form-control">
-                        </div>
-
-                        <input type="submit" name="kirim" value="Upload Foto" class="btn btn-warning">
-                    </form>
-                </div>
-                <div class="col-md-6">
-                    <?php
-                        if ($row['foto']==""){
-                        ?>
-                        <img src ="../images/foto/default.jpg" width="120px" height="120px">
-                        <?php
-                        } else {
-                            echo "<img src ='../images/foto/$row[foto]' width='120px' height='120px'>";
-                        }
-
-                    ?>
-                </div>
             </div>
         </div>
     </div>
